@@ -1,5 +1,5 @@
 // TODO: Write code to define and export the Engineer class.  HINT: This class should inherit from Employee.
-
+const Employee = require('./Employee');
 // For reference using extends: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends
 class Engineer extends Employee {
     constructor(name, id, email, github) {

@@ -1,8 +1,4 @@
 // TODO: Write code to define and export the Employee class
-// HINT: make sure to build out your classes first! Remember that your Manager, Engineer,
-// and Intern classes should all extend from a class named Employee.
-
-// TODO: Write code to define and export the Employee class
 
 // The first class is an Employee parent class
 class Employee {
